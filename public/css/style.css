@@ -70,7 +70,7 @@
     font-family: 'Montserrat', sans-serif;
     line-height: 1.6em;
     display: table;
-}   
+}   .section img.mobile{ width: 223px; }
 
 #opener{
     margin-left:200px; 
